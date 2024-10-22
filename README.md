@@ -12,7 +12,10 @@ Real-Time Data Analytics for Optimal Performance and Safety
 - Supply Chain Disruptions: Delays in the supply chain can result in tens of millions in losses for large defense projects due to production delays.
 - Safety Concerns: A lack of real-time performance data increases safety risks, which can lead to catastrophic failures.
 - Real Time Consideration : The aerospace and defense industry faces tremendous financial and operational pressures. For example, Boeing has estimated that inefficiencies in fleet management can lead to losses of $10-20 million per day for large defense projects.
-- Solution Overview: FleetOptix FleetOptix is a comprehensive real-time data analytics platform designed to address the key challenges in aerospace and defense fleet management.
+
+## Solution Overview:
+
+### FleetOptix FleetOptix is a comprehensive real-time data analytics platform designed to address the key challenges in aerospace and defense fleet management.
 
 
 ## Key Features:
