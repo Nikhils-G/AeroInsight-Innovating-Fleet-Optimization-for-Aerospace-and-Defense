@@ -1,7 +1,7 @@
 # AeroInsight-Innovating-Fleet-Optimization-for-Aerospace-and-Defense
 Real-Time Data Analytics for Optimal Performance and Safety
 
-## TITLE : "FleetOptix: Revolutionizing Aerospace and Defense Fleet Management"
+## TITLE : " FleetOptix: Revolutionizing Aerospace and Defense Fleet Management "
 ## SUBTILE : "Real-Time Data Analytics for Optimal Performance and Safety"
 ## Problem Statement :
 
@@ -61,10 +61,10 @@ Click on the demo link to explore how FleetOptix revolutionizes aerospace and de
 
 
 ## Frontend (React):
-- React Ecosystem: React hooks (useState, useEffect) for state management and side effects.
-- Data Visualization: Recharts library for creating responsive and interactive charts.
-- UI Components: Custom Card component for displaying KPIs, using Lucide React icons for visual enhancements.
-- Responsive Design: CSS Grid for layout with responsive breakpoints and Tailwind CSS-like utility classes for styling.
+- React Ecosystem : React hooks (useState, useEffect) for state management and side effects.
+- Data Visualization : Recharts library for creating responsive and interactive charts.
+- UI Components : Custom Card component for displaying KPIs, using Lucide React icons for visual enhancements.
+- Responsive Design : CSS Grid for layout with responsive breakpoints and Tailwind CSS-like utility classes for styling.
 
 
 ## FleetOptix differentiates itself with the following competitive advantages:
