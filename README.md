@@ -17,59 +17,41 @@ Real-Time Data Analytics for Optimal Performance and Safety
 
 ## Key Features:
 
-● Predictive Maintenance: Anticipate issues before they occur, reducing unplanned downtime.
-● Fuel Efficiency Tracking: Optimize fuel consumption and reduce operational costs.
-● Supply Chain Monitoring: Prevent delays and ensure mission readiness.
-● Real-Time Performance Analytics: Enhance safety and operational efficiency.
-Impact:
-FleetOptix can help aerospace and defense companies save up to 15-20%
-on operational expenses by minimizing downtime, optimizing fuel usage,
-and streamlining supply chain operations.
-Market Opportunity :
-● Global Aerospace and Defense Market Size: $702 billion (2023)
-● Expected CAGR: 5.8% (2023-2028)
-● Potential Cost Savings: Up to 15-20% of operational expenses
-● Data Analytics Market in Aerospace and Defense: Projected to
-reach $22.7 billion by 2028
-Sources:
-● Fortune Business Insights
-● Mordor Intelligence
-● MarketsandMarkets
-Product Demo :
-AeroInsights is a cutting-edge real-time data analytics platform designed
-specifically for aerospace and defense companies. The platform integrates
-advanced predictive analytics to monitor and optimize fleet operations,
-enabling organizations to:
-Track Maintenance Needs: Predictive maintenance tools anticipate
-issues before they arise, helping to reduce unplanned downtime and
-maintenance costs.
-Optimize Fuel Efficiency: Real-time tracking and analytics identify
-opportunities to optimize fuel consumption, resulting in significant cost
-savings.
-Monitor Supply Chain: The platform tracks supply chain performance to
-prevent delays and ensure mission readiness.
-Key Features Demonstrated in the Demo :
-● Real-Time Dashboard: View the current status of the entire fleet at
-a glance, with data refreshed every few seconds.
-● Predictive Maintenance Alerts: Receive timely alerts that allow for
-proactive maintenance scheduling, reducing the risk of unexpected
-failures.
-● Fuel Efficiency Optimization Tools: Analyze fuel consumption
-patterns and implement strategies to maximize efficiency and
-reduce costs.
-● Supply Chain Tracking and Alert System: Monitor the flow of
-critical supplies and receive alerts if delays or disruptions are
-detected.
-Experience the Platform :
-Click on the demo link to explore how FleetOptix revolutionizes
-aerospace and defense fleet management through its intuitive and
-powerful real-time analytics tools.
-🛩🚀🚡—-> Product demo
-Technology Stack
-FleetOptix utilizes a modern, scalable technology stack that combines a
-responsive React frontend with a machine learning-powered Python
-backend.
-Backend (Python):
+- Predictive Maintenance: Anticipate issues before they occur, reducing unplanned downtime.
+-  Fuel Efficiency Tracking: Optimize fuel consumption and reduce operational costs.
+-  Supply Chain Monitoring: Prevent delays and ensure mission readiness.
+-   Real-Time Performance Analytics: Enhance safety and operational efficiency.
+
+
+## Impact:
+
+### FleetOptix can help aerospace and defense companies save up to 15-20% on operational expenses by minimizing downtime, optimizing fuel usage, and streamlining supply chain operations.
+
+## Product Demo :
+AeroInsights is a cutting-edge real-time data analytics platform designed specifically for aerospace and defense companies. The platform integrates advanced predictive analytics to monitor and optimize fleet operations, enabling organizations to: 
+
+- Track Maintenance Needs: Predictive maintenance tools anticipate issues before they arise, helping to reduce unplanned downtime and maintenance costs.
+- Optimize Fuel Efficiency: Real-time tracking and analytics identify opportunities to optimize fuel consumption, resulting in significant cost savings.
+- Monitor Supply Chain: The platform tracks supply chain performance to prevent delays and ensure mission readiness.
+- 
+## Key Features Demonstrated in the Demo :
+
+- Real-Time Dashboard: View the current status of the entire fleet at a glance, with data refreshed every few seconds.
+-  Predictive Maintenance Alerts: Receive timely alerts that allow for proactive maintenance scheduling, reducing the risk of unexpected failures.
+-   Fuel Efficiency Optimization Tools: Analyze fuel consumption patterns and implement strategies to maximize efficiency and reduce costs.
+-  Supply Chain Tracking and Alert System: Monitor the flow of critical supplies and receive alerts if delays or disruptions are detected.
+
+## Experience the Platform :
+Click on the demo link to explore how FleetOptix revolutionizes aerospace and defense fleet management through its intuitive and powerful real-time analytics tools.
+### [🛩🚀🚡](https://vimeo.com/1007684678)—-> Product demo
+
+
+## Technology Stack
+
+### FleetOptix utilizes a modern, scalable technology stack that combines a responsive React frontend with a machine learning-powered Python backend.
+
+## Backend (Python):
+
 Machine Learning Framework: TensorFlow and Keras for building and
 training LSTM models.
 Data Processing: NumPy for numerical operations and Scikit-learn for
